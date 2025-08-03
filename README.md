@@ -47,5 +47,3 @@ The current virtual prototype serves as a successful proof-of-concept. The next 
 3.  **High-Fidelity Audio:** Integrating a Micro-SD card module to play authentic bird distress calls.
 4.  **Custom PCB Manufacturing:** Designing and fabricating a custom PCB to create a compact and rugged final product.
 
----
-*This project was created as part of an internship submission.*
